@@ -9,16 +9,7 @@ import Form from './components/Form';
 import StartPage from './components/StartPage';
 import Pagination from 'react-bootstrap/Pagination';
 
-
 const App = () => {
-
-  const prevpage = () => {
-  }
-  const nextpage = () => {
-  }
-
-  const pageOne = (event) => {
-  }
 
   return (
     <Router>
